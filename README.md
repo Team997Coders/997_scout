@@ -1,8 +1,4 @@
-# NOTE
-We changed to github pages. Please use https://frc2713.github.io/QRScout/ until we redirect http://scout.redhawkrobotics.org
+# Spartan Scout
+This is the scouting app for team 997, Spartan Robotics.
 
-# QRScout
-A QR Code Based Scouting System for FRC
-
-
-
+Thank you for team 2713 for helping!
